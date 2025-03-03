@@ -1,0 +1,17 @@
+res://Character/player.tscn
+res://Levels/test_level.tscn
+res://Levels/game_camera.gd
+res://Character/player.gd
+res://Levels/platform_generator.gd
+res://Levels/background_controller.gd
+res://Levels/score_ui.gd
+res://Objects/BasePlatform.gd
+res://Objects/Platform.gd
+res://HUD/GameOverHUD.gd
+res://Levels/GameOverHUD.tscn
+res://Levels/GameOverHUD.gd
+res://Mob/enemy.tscn
+res://Mob/enemy.gd
+res://Levels/health_ui.gd
+res://Levels/enemy_spawner.gd
+res://Levels/health_ui.tscn
